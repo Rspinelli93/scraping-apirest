@@ -67,7 +67,7 @@ Almacenar los datos obtenidos en un archivo JSON.
 - Crear funciones para obtener todas las noticias, obtener una noticia por índice, crear una nueva noticia, actualizar una noticia existente y eliminar una noticia.
 
 **Pistas para resolver**
-cons estas líneas podremos leer, guardar y usar los datos del archivo `noticias.json` para poder trabajar con ellos.
+con estas líneas podremos leer, guardar y usar los datos del archivo `noticias.json` para poder trabajar con ellos.
 
 ```javascript 
   let noticias = [];
